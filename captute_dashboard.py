@@ -29,7 +29,7 @@ DASHBOARDS = [
 
     {
         "key": "ST3_User_Level_Breakdown_8",
-        "url": "http://172.20.245.28/GRIO/CPEmp8.php",
+        "url": "http://172.20.245.28/GRIO/CPEmp8.php", 
         "wait": 15,
         # this is the fixed "latest" file name (overwritten each run)
         "latest_name": "ST3_User_Level_Breakdown_8.png",
