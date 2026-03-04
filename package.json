@@ -1,0 +1,19 @@
+{
+  "name": "mydashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send_whatsapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "node-cron": "^4.2.1",
+    "puppeteer": "^24.37.5",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.34.6"
+  }
+}
