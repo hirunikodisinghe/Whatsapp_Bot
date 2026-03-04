@@ -5,7 +5,7 @@ const { spawn } = require("child_process");
 const { Client, LocalAuth, MessageMedia } = require("whatsapp-web.js");
 
 // ===== CONFIG =====
-const GROUP_NAME = "WhatsAppTest"; //ST3-CuringTeam  //WhatsAppTest 
+const GROUP_NAME = ["WhatsAppTest","ST3-CuringTeam1"]; //ST3-CuringTeam  //WhatsAppTest 
 
 const IMAGES = [
   "ST3_CP_PVSA.png",
